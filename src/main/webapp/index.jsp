@@ -1187,7 +1187,7 @@
             <div class="container">
                 <div class="badge"><i class="fas fa-sparkles"></i> New Collection 2026</div>
                 <h1>Discover Premium <br>Essentials</h1>
-                <p>Curated fashion, tech & accessories with free shipping on your first order. Limited-time deals await.</p>
+                <p>Curated fashion, tech & accessories with free shipping on your first order. Order Now.</p>
                 <div class="actions">
                     <button class="btn btn-primary" id="shopNow"><i class="fas fa-arrow-right"></i> Shop Now</button>
                     <button class="btn btn-ghost" id="exploreDeals"><i class="fas fa-clock"></i> Explore Deals</button>
